@@ -44,14 +44,14 @@
     <distributionManagement>
       <repository>
         <id>bring.releases</id>
-        <url>http://ci.bd.bring.no/nexus/content/repositories/releases</url>
+        <url>http://ci.bd.bring.no/nexus/content/repositories/thirdparty</url>
       </repository>
     </distributionManagement>
 
     <repositories>
       <repository>
         <id>bring.releases</id>
-        <url>http://ci.bd.bring.no/nexus/content/repositories/releases</url>
+        <url>http://ci.bd.bring.no/nexus/content/repositories/thirdparty</url>
       </repository>
     </repositories>
 
